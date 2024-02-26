@@ -29,5 +29,5 @@ O script começará a monitorar os processos em execução no sistema.
 
 ## Contribuições
 
-Este projeto foi desenvolvido por mim. Contribuições adicionais são bem-vindas. Sinta-se à vontade para propor melhorias, corrigir problemas ou adicionar novos recursos.
+Este projeto foi desenvolvido por mim. Contribuições adicionais são bem-vindas, como: propor melhorias, corrigir problemas ou adicionar novos recursos.
 
