@@ -1,0 +1,1 @@
+Este códido python gera um relatório simples do consumo de memórias e outras informações de processos do Sistema Operacional do seu dispositivo a partir de dados provenientes do processamento da biblioteca "psutil" do python.
