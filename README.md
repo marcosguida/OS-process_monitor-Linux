@@ -17,11 +17,10 @@ Instalar python:
 
 ```
 sudo apt install python3
-
 ```
 
+```
 sudo apt install python3-pip
-
 ```
 
 Instalar a biblioteca utilizando o pip:
