@@ -16,7 +16,7 @@ Ao executar o script, ele itera sobre todos os processos em execução e verific
 Instalar python:
 
 ```
-sudo apt install pytho3 
+sudo apt install python3
 ```
 
 Instalar a biblioteca utilizando o pip:
