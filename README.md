@@ -13,6 +13,12 @@ Ao executar o script, ele itera sobre todos os processos em execução e verific
 - Python
 - Biblioteca `psutil`
 
+Instalar python:
+
+```
+sudo apt install pytho3 
+```
+
 Instalar a biblioteca utilizando o pip:
 
 ```
