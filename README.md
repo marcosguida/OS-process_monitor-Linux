@@ -29,7 +29,7 @@ pip install psutil
 
 ## Usage
 
-1. Download the script and save it with a `.py` extension (e.g., `monitor_processes.py`).
+1. Download the script and save it with a `.py` extension (e.g., `monitorar_processos.py`).
 2. Open a terminal and navigate to the directory where the script is located.
 3. Run the script:
 
