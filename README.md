@@ -2,7 +2,7 @@
 
 Este é um script em Python que possui o objetivo de monitorar os processos em execução no sistema e alertar sobre aqueles que excedem determinados limites de utilização de CPU e memória.
 
-## Como Funciona
+## Comportamento
 
 O script utiliza a biblioteca `psutil`, que fornece uma interface para recuperar informações do sistema operacional, incluindo informações sobre processos em execução, uso de CPU e memória.
 
