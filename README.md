@@ -34,14 +34,14 @@ pip install psutil
 3. Run the script:
 
 ```
-python3 monitor_processes.py
+python3 monitorar_processos.py
 ```
 
 The script will start monitoring running processes on the system.
 
 ## Contributions
 
-This project was developed by me.
+This script was developed by me.
 
 *Open for contributions*
 
