@@ -43,7 +43,8 @@ The script will start monitoring running processes on the system.
 
 ## Contributions
 
-This project was developed by Bard. Additional contributions are welcome.
+This project was developed by me.
+*open for contributions*
 
 ## License 
 
