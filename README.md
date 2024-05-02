@@ -1,6 +1,4 @@
-## OS process monitor - Python
-
-## Process Monitor with Python
+## OS process monitor
 
 Python script that aims to monitor running processes on a Linux operating system and alert for those that exceed certain CPU and memory usage limits.
 
