@@ -33,7 +33,7 @@ pip install psutil
 
 1. Fazer o download do script e salvar com a extensão `.py` (por exemplo, `monitorar_processos.py`).
 2. Abrir um terminal ou prompt de comando e navegar até o diretório onde o script está localizado.
-3. Executar o script digitando `python monitorar_processos.py`.
+3. Executar o script digitando `python3 monitorar_processos.py`.
 
 O script começará a monitorar os processos em execução no sistema.
 
