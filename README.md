@@ -44,7 +44,8 @@ The script will start monitoring running processes on the system.
 ## Contributions
 
 This project was developed by me.
-*open for contributions*
+
+*Open for contributions*
 
 ## License 
 
