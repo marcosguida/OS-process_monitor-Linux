@@ -1,19 +1,19 @@
-# Monitor de Processos com Python
+## OS process monitor - Python
 
-Este é um script em Python que possui o objetivo de monitorar os processos em execução em sistema operacional Linux e alertar sobre aqueles que excedem determinados limites de utilização de CPU e memória.
+This is a Python script that aims to monitor running processes on a Linux operating system and alert for those that exceed certain CPU and memory usage limits.
 
-## Comportamento
+## Feature
 
-O script utiliza a biblioteca `psutil`, que fornece uma interface para recuperar informações do sistema operacional, incluindo informações sobre processos em execução, uso de CPU e memória.
+The script uses the `psutil` library, which provides an interface to retrieve operating system information, including information about running processes, CPU usage, and memory usage.
 
-Ao executar o script, ele itera sobre todos os processos em execução e verifica o uso de CPU e memória de cada um. Se o uso de CPU ou memória de um processo exceder os limites definidos, o script exibe informações sobre esse processo, incluindo seu nome, uso de CPU e uso de memória.
+When the script is executed, it iterates over all running processes and checks the CPU and memory usage of each one. If the CPU or memory usage of a process exceeds the defined limits, the script displays information about that process, including its name, CPU usage, and memory usage.
 
-## Requisitos
+## Requirements
 
 - Python
-- Biblioteca `psutil`
+- `psutil` library
 
-Instalar python:
+Install python:
 
 ```
 $ sudo apt install python3
@@ -23,21 +23,67 @@ $ sudo apt install python3
 $ sudo apt install python3-pip
 ```
 
-Instalar a biblioteca utilizando o pip:
+Install the library using pip:
 
 ```
 pip install psutil
 ```
 
-## Como Usar
+## Use
 
-1. Fazer o download do script e salvar com a extensão `.py` (por exemplo, `monitorar_processos.py`).
-2. Abrir um terminal ou prompt de comando e navegar até o diretório onde o script está localizado.
-3. Executar o script digitando no terminal `$ python3 monitorar_processos.py`.
+1. Download the script and save it with a `.py` extension (for example, `monitorar_processos.py`).
+2. Open a terminal or command prompt and navigate to the directory where the script is located.
+3. Execute the script by typing in the terminal `$ python3 monitorar_processos.py`.
 
-O script começará a monitorar os processos em execução no sistema.
+The script will start monitoring the running processes on the system.
 
-## Contribuições
+## Contributions
 
-Este projeto foi desenvolvido por mim. Contribuições adicionais são bem-vindas.
+This project was developed by me. Additional contributions are welcome.
 
+## Translation
+
+**Process Monitor with Python**
+
+This is a Python script that aims to monitor running processes on a Linux operating system and alert for those that exceed certain CPU and memory usage limits.
+
+**Behavior**
+
+The script uses the `psutil` library, which provides an interface to retrieve operating system information, including information about running processes, CPU usage, and memory usage.
+
+When the script is executed, it iterates over all running processes and checks the CPU and memory usage of each one. If the CPU or memory usage of a process exceeds the defined limits, the script displays information about that process, including its name, CPU usage, and memory usage.
+
+**Requirements**
+
+- Python
+- `psutil` library
+
+**Installation**
+
+1. Install Python 3 and pip:
+
+```
+sudo apt install python3 python3-pip
+```
+
+2. Install the `psutil` library:
+
+```
+pip install psutil
+```
+
+**Usage**
+
+1. Download the script and save it with a `.py` extension (e.g., `monitor_processes.py`).
+2. Open a terminal and navigate to the directory where the script is located.
+3. Run the script:
+
+```
+python3 monitor_processes.py
+```
+
+The script will start monitoring running processes on the system.
+
+**Contributions**
+
+This project was developed by Bard. Additional contributions are welcome.
