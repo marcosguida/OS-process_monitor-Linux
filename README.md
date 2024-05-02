@@ -1,6 +1,6 @@
 # Monitor de Processos com Python
 
-Este é um script em Python que possui o objetivo de monitorar os processos em execução no sistema e alertar sobre aqueles que excedem determinados limites de utilização de CPU e memória.
+Este é um script em Python que possui o objetivo de monitorar os processos em execução em sistema operacional Linux e alertar sobre aqueles que excedem determinados limites de utilização de CPU e memória.
 
 ## Comportamento
 
