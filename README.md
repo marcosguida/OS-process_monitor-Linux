@@ -1,4 +1,9 @@
-## OS process monitor
+<h1 align="center" style="font-weight: bold;">OS process monitor 💻</h1>
+<h1 align="center" style="font-weight: bold;">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</h1>
 
 Python script that aims to monitor running processes on a Linux operating system and alert for those that exceed certain CPU and memory usage limits.
 
